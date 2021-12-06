@@ -1,8 +1,8 @@
 ## Welcome to LEONNEGUITAR
 
-You can use the [editor on GitHub](https://github.com/GITLEONN/testeleonne/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is page test of Leonneguitar to study creation site in githubpage.
 
-This is page test of Leonneguitar to study creation site in githubpage. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vou comer o cu de quem ta lendo!!. 
 
 ### Markdown
 
